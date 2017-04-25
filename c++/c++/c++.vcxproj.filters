@@ -15,39 +15,36 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="..\..\Programa-Base-SnowMan\Camera.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\Camera.cpp">
+    <ClCompile Include="..\..\Programa-Base-SnowMan\Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\Game.cpp">
+    <ClCompile Include="..\..\Programa-Base-SnowMan\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\main.cpp">
+    <ClCompile Include="..\..\Programa-Base-SnowMan\MainWindow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\MainWindow.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\SnowMan.cpp">
+    <ClCompile Include="..\..\Programa-Base-SnowMan\SnowMan.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\Camera.h">
+    <ClInclude Include="..\..\Programa-Base-SnowMan\SnowMan.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\Game.h">
+    <ClInclude Include="..\..\Programa-Base-SnowMan\MainWindow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\Game1.h">
+    <ClInclude Include="..\..\Programa-Base-SnowMan\Game1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\MainWindow.h">
+    <ClInclude Include="..\..\Programa-Base-SnowMan\Game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\SnowMan.h">
+    <ClInclude Include="..\..\Programa-Base-SnowMan\Camera.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

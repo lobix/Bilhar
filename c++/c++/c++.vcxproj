@@ -146,19 +146,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\Camera.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\Game.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\main.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\MainWindow.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\SnowMan.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="..\..\Programa-Base-SnowMan\Camera.cpp" />
+    <ClCompile Include="..\..\Programa-Base-SnowMan\Game.cpp" />
+    <ClCompile Include="..\..\Programa-Base-SnowMan\main.cpp" />
+    <ClCompile Include="..\..\Programa-Base-SnowMan\MainWindow.cpp" />
+    <ClCompile Include="..\..\Programa-Base-SnowMan\SnowMan.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\Camera.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\Game.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\Game1.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\MainWindow.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\SnowMan.h" />
+    <ClInclude Include="..\..\Programa-Base-SnowMan\Camera.h" />
+    <ClInclude Include="..\..\Programa-Base-SnowMan\Game.h" />
+    <ClInclude Include="..\..\Programa-Base-SnowMan\Game1.h" />
+    <ClInclude Include="..\..\Programa-Base-SnowMan\MainWindow.h" />
+    <ClInclude Include="..\..\Programa-Base-SnowMan\SnowMan.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
