@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of main.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\Desktop\SourceCode-P3D-5\CPP\Programa-Base-SnowMan\main.cpp, main.cpp.
+  SnowMan.cpp
+  MainWindow.cpp
+  main.cpp
+  Game.cpp
+  Camera.cpp
+  Generating Code...
+Debug\main.obj : warning LNK4042: object specified more than once; extras ignored
+  c++.vcxproj -> C:\Users\lobix7\documents\visual studio 2015\Projects\c++\Debug\c++.exe
+  c++.vcxproj -> C:\Users\lobix7\documents\visual studio 2015\Projects\c++\Debug\c++.pdb (Full PDB)
