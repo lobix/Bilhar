@@ -5,6 +5,8 @@
 
 #include "Game1.h"
 
+// Hello world 
+
 int main(int argc, char **argv) {
 	createGameCharacters();
 
