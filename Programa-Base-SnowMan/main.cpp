@@ -26,5 +26,7 @@ int main(int argc, char **argv) {
 	// Entra no ciclo de gestão da aplicação por eventos
 	Game::gameRun();
 
+	//HELLO WORLD
+
 	return 0;
 }
