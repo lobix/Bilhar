@@ -3,6 +3,7 @@
 #include <gl/freeglut.h>
 #include "Game.h"
 
+
 namespace gameengine {
 
 	bool Game::gameRunning = false;
