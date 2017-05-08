@@ -1,3 +1,32 @@
+<<<<<<< HEAD
 ﻿  main.cpp
   c++.vcxproj -> C:\Users\tayna\Documents\Bilhar\c++\x64\Debug\c++.exe
   c++.vcxproj -> C:\Users\tayna\Documents\Bilhar\c++\x64\Debug\c++.pdb (Full PDB)
+=======
+﻿  glm.cpp
+d:\bilhar\c++\c++\glm.cpp(303): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\bilhar\c++\c++\glm.cpp(304): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\bilhar\c++\c++\glm.cpp(305): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\bilhar\c++\c++\glm.cpp(307): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\bilhar\c++\c++\glm.cpp(308): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\bilhar\c++\c++\glm.cpp(309): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\bilhar\c++\c++\glm.cpp(807): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(808): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(809): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(812): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(1012): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(1169): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(1175): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(1176): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(1226): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(1227): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(1234): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\bilhar\c++\c++\glm.cpp(1236): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(1239): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\bilhar\c++\c++\glm.cpp(1241): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(1244): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\bilhar\c++\c++\glm.cpp(1245): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  LINK : D:\Bilhar\c++\x64\Debug\c++.exe not found or not built by the last incremental link; performing full link
+  c++.vcxproj -> D:\Bilhar\c++\x64\Debug\c++.exe
+  c++.vcxproj -> D:\Bilhar\c++\x64\Debug\c++.pdb (Full PDB)
+>>>>>>> master
